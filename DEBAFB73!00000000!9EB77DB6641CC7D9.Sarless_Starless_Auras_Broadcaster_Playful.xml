@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="Sarless:Starless_Auras_Broadcaster_Playful" s="11436748001047791577">
+    <T n="allow_sims">True</T>
+    <E n="clock_type">GAME_TIME</E>
+    <L n="constraints">
+        <V t="circle">
+            <U n="circle">
+                <T n="ideal_radius">4</T>
+                <T n="ideal_radius_width">2</T>
+                <T n="radial_cost_weight">2.25</T>
+                <T n="radius">8</T>
+            </U>
+        </V>
+    </L>
+    <L n="effects">
+        <V t="buff">
+            <U n="buff">
+                <U n="buff">
+                    <T n="buff_type">16758201980678544776<!--Starless_Auras_Buff_Playful--></T>
+                </U>
+                <T n="remove_buff">True</T>
+            </U>
+        </V>
+    </L>
+    <V n="frequency" t="on_pulse">
+        <U n="on_pulse">
+            <T n="cooldown_time">30</T>
+        </U>
+    </V>
+</I>

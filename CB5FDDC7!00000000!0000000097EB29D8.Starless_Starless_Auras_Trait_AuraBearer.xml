@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="Starless:Starless_Auras_Trait_AuraBearer" s="2548771288">
+    <L n="ages">
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <T n="allow_from_gallery">True</T>
+    <T n="cas_trait_asm_param">Outgoing </T>
+    <T n="display_name">0xE19D60E7</T>
+    <T n="display_name_gender_neutral">0x413331F5</T>
+    <T n="icon"><!--Todo This. Also a lot of other stuff, including changing to Gameplay trait, creating a pie menu, creating a wimset, a trait origin description, and probably more--></T>
+    <T n="persistable">True</T>
+    <L n="species">
+        <E>HUMAN</E>
+    </L>
+    <T n="trait_description">0x90DB7FA5</T>
+    <E n="trait_type">PERSONALITY</E>
+    <V n="ui_category" t="ui_trait_category_tag" />
+</I>
